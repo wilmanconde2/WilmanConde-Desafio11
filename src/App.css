@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: darkblue;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 3rem;
+  color: orangered;
+}
+
+h2{
+  color: darkred;
+}
+
+hr {
+  padding: 1rem;
+}
+
+.success{
+  color: darkgreen;
+}
+.warning{
+  color: darkgoldenrod;
+}
+.danger{
+  color: darkred;
+}
